@@ -9,7 +9,7 @@ function Main() {
         </div>
         <div className='absolute w-full h-full z-20 gradient'></div>
         <div className="absolute w-full min-w-[100px] px-[5%] z-30">
-            <h1 className='text text-4xl text-white font-medium w-3/4'>
+            <h1 className='text text-[30px] text-white font-medium w-3/4'>
                 <span className='text-[#386cb0] organetto'>DeSouza</span>
                 <span className='text-[#8d8d8d] organetto'>Serviços</span>
                 <p className='text-3xl organetto'>Consertos e Manutenções em Curitiba e Região!</p>
